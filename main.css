@@ -601,6 +601,10 @@ button:focus {
     .nav-menu {
         display: none;
     } 
+    
+    .timeline-logo > img {
+        width: 60%;
+    }
 }
 
 
