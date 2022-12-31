@@ -277,7 +277,7 @@ section:nth-child(2n + 1) {
 }
 
 .timeline-logo > img {
-    width: 100%;
+    width: 75%;
 }
 
 #timeline-divider {
