@@ -110,6 +110,10 @@ body::-webkit-scrollbar {
     margin-bottom: 0.5rem;
 }
 
+#my-name div{
+    display: inline;
+}
+
 .social-icons li a i {
     padding: 10px;
     font-size: 1rem;
@@ -587,6 +591,14 @@ button:focus {
 }
 
 @media only screen and (max-width: 572px) {
+    
+    #name-social-container {
+        margin-top: 16vh;
+    }
+
+    #my-name div{
+        display: block;
+    }
     
     .timeline-box {
         width: 100%;
