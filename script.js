@@ -12,7 +12,7 @@ for (var i = 0; i < navMenuAnchorTags.length ; i++) {
 
     interval = setInterval(function () {
         scrollVertically(targetSection);
-    }, 50);
+    }, 25);
 
    });
     
